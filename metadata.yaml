@@ -1,0 +1,32 @@
+_repo: Tom-Swift-circling-the-globe-or-The-daring-cruise-of-the-Air-Monarch_69682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2023-01-01'
+identifiers:
+  gutenberg: '69682'
+language: en
+pgterms:marc905: 20220825032045appleton
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Delphine Lettau, Greg Weeks, Cindy Beyer, Mary Meehan and the online
+  Distributed Proofreaders Canada team at http://www.pgdpcanada.net
+publication_note: 'United States: Grosset & Dunlap,1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Flights around the world -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Tom Swift circling the globe; or, The daring cruise of the Air Monarch
+url: http://www.gutenberg.org/ebooks/69682
